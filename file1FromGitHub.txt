@@ -1,0 +1,1 @@
+This is just for practicing how to create a file on GitHub.com and pull it from IntelliJ
